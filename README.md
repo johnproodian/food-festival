@@ -12,8 +12,7 @@ Given the starter code of a functioning app, I:
 * CSS
 * Bootstrap
 * JavaScript
-* CSS
-* 
+* webpack
 
 ## Website
 https://johnproodian.github.io/food-festival/
