@@ -6,6 +6,10 @@ Given the starter code of a functioning app, I:
 1. Increased its perfomance by running a Google Lighthouse audit and using webpack to bundle code, organize it efficiently, enable lazy loading, and minimize the size of all assets, and
 2. Converted it to a progressive web application
 
+## Screenshots
+![homepage](/assets/screenshots/homepage.png)
+![schedule](/assets/screenshots/schedule.png)
+![tickets](/assets/screenshots/ticket-page.png)
 
 ## Built With
 * HTML
